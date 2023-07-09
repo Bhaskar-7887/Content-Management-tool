@@ -1,0 +1,20 @@
+# Content-Management-tool
+CONTENT MANAGEMENT SYSTEM IN PHP
+
+**Login Details**
+
+Username: victor
+Password: headadmin
+
+**Developed By Bhaskar yadav**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "victor" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** 
